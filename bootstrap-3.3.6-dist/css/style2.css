@@ -1,0 +1,93 @@
+body{
+	width:1000px;
+	background-color:#fff ;
+}
+
+.container{
+	background-color: #333;
+	margin: 100px 40px 0 50px;
+	padding: 70px 70px 0;
+	color: black;
+	font-size:  1em;
+}
+
+.container h2 , strong{
+	color: blue;
+	text-transform: uppercase;;
+}
+
+#logo{
+	width: 150px;
+	display: block;
+	margin: auto;
+	margin-top:-153px;
+}
+
+.primary h1 , .para{
+	font-size: 30px;
+	margin: auto;
+	font-family:"Times New Roman", Georgia, Serif;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 0;
+	font-weight: 700;
+	letter-spacing: -1px;
+
+}
+h1{
+	padding: 20px 0 0 0;
+}
+
+.line{
+max-width: 100%;
+margin-top: -70px;
+margin-left: 250px;
+padding-bottom: 0px;
+}
+
+.para2{
+	width: 500px;
+}
+
+.contact_List{
+	list-style: none;
+
+}
+
+.contact_List img{
+	width: 30px;
+}
+
+.contact_List li{
+	padding-bottom: 10px;
+}
+
+.media{
+	width: 500px;
+	background:#808080;
+}
+
+#service{
+	width: 500px;
+}
+
+#Project ul li {
+	list-style: none;
+	margin-left: 30px;
+}
+
+#projectHeading{
+	margin-left: 50px;
+}
+
+#Project img{
+	width:  100%;
+	margin-bottom: 10px;
+}
+
+footer{
+	padding: 10px;
+	background: #808080;
+	text-align: center;
+	width: 1340px;
+}

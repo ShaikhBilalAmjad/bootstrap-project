@@ -1,0 +1,178 @@
+body {
+  padding-top: 50px;
+}
+
+.navbr-c{
+	color:#1caa98 !important;
+	}
+
+
+.jumbotron{
+	background: url(../images/background.jpg ) repeat top center;
+	height: 500px;
+	color: #fff;
+}
+
+#side-pic{
+width: 63%;
+
+}
+
+
+.jumbotron .app-btn{
+	width:40%;
+	margin-right: 30px;
+}
+
+
+.jumbotron h1{
+	margin-top: 60px;	
+}
+
+.jumbotron p{
+	margin-bottom: 40px;	
+}
+
+.demo{
+	width:300px; 
+	height: 200px;
+	border: 1px solid #ccc;
+	padding: 3px;
+
+}
+
+#middle{
+	padding: 40px 0 40px 0;
+}
+
+
+#feature{
+	background: #1caa98;
+	color: #fff;
+	padding: 40px;
+	overflow: auto;
+}
+
+
+#feature ul li{
+	font-size: 22px;
+	list-style: none;
+	line-height: 2.0em;
+}
+
+#feature h2{
+	font-size: 50px;
+}
+
+
+#brand{
+	background: #1caa98;
+	padding: 0;
+	margin: 0;
+	color: #fff;
+	height: 80px;
+}
+
+#brand h2{
+	margin-top: 20px;
+}
+
+
+#about{
+	padding: 50px 0 50px 0;
+}
+
+#contact{
+	padding: 50px 0 50px 0;
+}
+
+#footer{
+	background: #333;
+	padding: 30px 0 20px 0;
+	color: #fff;
+}
+
+
+#footer li{
+	list-style: none;
+	float: left;
+	padding: 0 10px 0 10px;
+}
+
+#footer a{
+	color: #fff;
+}
+
+#footer p{
+	float: right;
+}
+
+
+/*media querie*/
+
+@media(max-width: 1200px){
+
+}
+
+
+@media(max-width: 991px){
+#side-pic{
+	display: none;
+}
+
+}
+
+@media(min-width: 768px) and (max-width: 990){
+	.jumbotron .app-btn{
+	width:30%;
+}
+
+
+	.jumbotron{
+		height: 400px;
+		background-size: 100% 100%;
+}
+
+
+
+}
+
+@media(max-width: 768px){
+.jumbotron{
+	height: 350px;
+}
+}
+
+@media(max-width: 500px){
+.footer p{
+    float: none;
+    text-align: center;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
